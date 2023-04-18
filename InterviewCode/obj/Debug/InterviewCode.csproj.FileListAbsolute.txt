@@ -1,0 +1,7 @@
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\bin\Debug\InterviewCode.exe.config
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\bin\Debug\InterviewCode.exe
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\bin\Debug\InterviewCode.pdb
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\obj\Debug\InterviewCode.csproj.AssemblyReference.cache
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\obj\Debug\InterviewCode.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\obj\Debug\InterviewCode.exe
+C:\Users\ssrat\source\repos\FrontEndPractice\InterviewCode\obj\Debug\InterviewCode.pdb
